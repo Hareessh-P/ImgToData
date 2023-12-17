@@ -13,8 +13,11 @@ If the output_plot parameter is specified, a scatter plot is generated using Mat
 
 ## LIBRARIES USED:
 OpenCV (cv2): A computer vision library used for image processing tasks, such as reading images and displaying them.
+
 NumPy (np): A numerical computing library used for handling arrays and mathematical operations. It is often used in image processing for numerical operations on pixel values.
+
 Matplotlib (plt): A 2D plotting library used for creating visualizations, such as scatter plots. In this script, it is used to generate a scatter plot of the digitized points.
+
 Argparse: A Python library for parsing command-line arguments. It allows the script to accept input parameters from the command line.
 
 ## INPUT:
