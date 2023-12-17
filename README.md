@@ -21,11 +21,15 @@ Matplotlib (plt): A 2D plotting library used for creating visualizations, such a
 Argparse: A Python library for parsing command-line arguments. It allows the script to accept input parameters from the command line.
 
 ## INPUT:
+![Alt Text](https://github.com/Hareessh-P/ImgToData/blob/main/bargraph.png)
+
 The input to the script is the path to an image file (D:\OSC\bargraph.png in this case).
 The user can provide additional input through command-line arguments, including the output CSV file path (--output_csv), the output plot image path (--output_plot), and the coordinates of points on the axes (--points).
 This script provides flexibility by allowing users to either interactively click on points or directly input them, making it useful for digitizing plots from images.
 
 ## OUTPUT:
+![Alt Text](https://github.com/Hareessh-P/ImgToData/blob/main/osc_proj.png)
+
 The output of the script depends on the parameters provided and the execution mode:
 
 CSV File:
